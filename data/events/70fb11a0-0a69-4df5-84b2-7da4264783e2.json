@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "b43a3673-e9a1-4b69-b04d-656b66aee95a": {
+      "label": "Out of the Cage",
+      "is_offline": false,
+      "file_url": "https://ia800308.us.archive.org/17/items/naropa_allen_ginsberg_and_michael/naropa_allen_ginsberg_and_michael_64kb.mp3",
+      "duration": 5297
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "“Allen Ginsberg and Michael McClure reading - Part 2.\" Jack Kerouac School of Disembodied Poetics, 16 June, 1976. Genre: Poetry Reading. The Internet Archive. https://archive.org/details/naropa_allen_ginsberg_and_michael2.",
+  "item_type": "Audio",
+  "label": "Out of the Cage -  Michael McClure and Ghost Tantras",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "U.S. poet Michael McClure (1932-2020) reads from his book Ghost Tantras (1964) at the Naropa Institute on June 16, 1976. Transcripts and editorial notes by Matthew Kilbane."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-01T19:27:58.138Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-01T19:27:58.138Z",
+  "updated_by": "tanyaclement"
+}
