@@ -1,0 +1,507 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The audio recordings included in “Voices: Microeditions of Readings by McClure, Marlatt, Rukeyser” are readings of select moments from longer textual works. American poet Michael McClure reads from his book Ghost Tantras (City Lights Books, 1964) at the Naropa Institute in Boulder Colorado on June 16, 1976. Muriel Rukeyser reads a poem-sequence that shares a title with her poetry collection The Speed of Darkness (Random House, 1968) at Sir George Williams University in 1969. Daphne Marlatt reads from her first collection of poems leaf leaf/s (Black Sparrow Press, 1969) in 1969 and then later in 2019. In each case, the editorial apparatus provides a transcript, but the annotations also acknowledge nonverbal, paratextual sounds including Marlatt’s use of alliteration, consonance, tone, speed, stress, and pitch; McClure’s growls and roars; and, for Rukeyser, the important spaces made with silence. What ties these three micro-editions together is “an expansive and fragmented representation of text” that points to the fragmentation of all editions in which the representation of the textual experience is always already less than holistic (Earheart 2015). The mico-editions gathered here are especially invested in the audition of context. As digital sonic archives snatch the literary concept “voice” from the realm of metaphor and render it conspicuously concrete, the horizon of observation widens. It becomes possible to apprehend dimensions of audio recordings that have been neglected by the latter’s subordination to printed objects, or spirited away by reductive practices of transcription. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Voices",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Matthew Kilbane",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Conventional approaches to literary audio presume that when we hear the performance of a poet’s work we are overhearing, first of all, the sonorous publication of a preexisting artwork whose primary mode of access is private print reading—not a new and complex literary-historical event with its own pressing, situated claims on our attention. Happily these approaches no longer exhaust the field of critical possibility. Close listeners to poetry’s audio archives have grasped for a while now that sonic media turn up the volume, as it were, on the fact of any iterable text’s “fundamentally plural existence” (Bernstein 9). But it hasn’t always been clear just what can be done with that messy, mediated plurality, which includes both the various instantiations of a poem and the myriad layers of observation entailed by the study of what Jason Camlot has dubbed “phonopoetics,” “the emergence and making (poeisis) of literary speech sounds (phono)” that comprise the historical audio record (5). It hasn’t always been easy, in other words, to hold in mind what  Clement terms the “resonant dissonances” of the audio archive—those difference-making “material, contextual, and political details of audio recordings”—that “coexist in clamorous superimposition” (xv, 21). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Because a flexible annotation tool like AVAnnotate makes possible the co-presentation of text, sound, and image, it enables the identification and exploration of these dissonances, the swirling context that informs any audiotext. Though one could certainly devise other heuristic frameworks for making these contexts legible, we can organize one plausible schema around four conceptually distinct “voices” animating the audio record: speaking, reading, situational, and social voices. Insofar as these voices belong properly to the historical audiotext and not to any discrete speaker captured on the record, and insofar as these voices are always “heard” by a listener self-conscious of their position vis-à-vis the archive, describing them may necessitate a strategic scrambling of the boundaries between edition and annotation, observation and interpretation. These are critical adjustments enforced by the nature of audiotexts themselves. In this way our use of AVAnnotate resonates with the work of scholars like Clement, Ana María Ochoa Gautier, Jonathan Sterne, Nicole Brittingham Furlonge, Jennifer Lynn Stoever, Tom McEnaney, and Jessica E. Teague, who have been keen to stress listening as a social practice that is constitutive of its objects."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Requiring the least degree of interpretative abstraction, speaking voice is essentially synonymous with what transcription makes available. Attention to the reading voice, by contrast, strives to restore the difference made by the dynamic relationship between the performative voice and the printed page. It invites the recited text into the orbit of analysis. The situational voice, meanwhile, attunes us to the live relation between performer and responsive audience. Finally, listening for the social voice requires tarrying with the grain of address and its expressive physiological textures–the “unique voice that signifies nothing but itself,” in Adriana Cavarero’s phrase–as much as the compacted social histories those textures index, from a speaker’s age and gender performance to their cultural location in time and geographical space, etc. (Cavarero 7)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Our reliance on the word “voice” may seem an error to some, insofar as it risks reintroducing into the study of audiotexts a narrowing preoccupation with the speaking subject and a disregard for all the noise and interference—the stutters and patter, the roomy echoes, the uncomfortable silence, the audience laugh, the missing high frequencies—to which critical listeners can hearken just as intently. But the conception of “voice” advanced here includes these non-semantic and non-human sounds; for us, the virtue of the term lies precisely in its emphasis on the expressive meaning of those sounds irreducible to direct transcription, and on their constitutive relation to the speaking voice we attribute to the performer or poet. Inlaid in these “voices” are the printed texts, rooms, audiences, technologies, and embodied experiences that render audio recordings such vivid and vital documents of literary history. Lending an ear to these voices means restoring the sonorous difference that history makes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Co-editors Dialogue",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Emily Murphy, Karis Shearer, and Trent Wintermeier",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Karis Shearer",
+          "italic": true
+        },
+        {
+          "text": ": Emily Murphy and I have for some time been looking for theoretical language for what Kilbane calls the “situational” and “social” voice. Long before our work on our micro-edition, we discussed Warren Tallman’s introduction to the “Charles Olson Memorial Reading” from March 14th, 1970 on our SoundBox Signals podcast. In that podcast episode, the recording invited us to attend to the social, embodied, and poetic norms that are audible on the tape. What were we able to discern from listening?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Emily Murphy",
+          "italic": true
+        },
+        {
+          "text": ": Most important to us was how we could hear warmth and relationship among the poets gathered at the memorial, the situational voice created between performer and responsive audience. And we could hear the shape of the room, the institutions and histories that shape the gathering, made audible through murmurs that echo against walls and conversations shouted across space and half-captured on the recording. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Our co-edited piece in this cluster of micro-editions has been enriched by Kilbane’s conceptual framework. It has allowed us to hear how the situated voice and social voice often overlap. For Marlatt, as we discuss more in the introduction to our contribution, this overlap means that she often signals the contextual and temporal changes that she perceives to her person and her voice that she encounters in a recording nested within the recording we now listen to. Kilbane’s theoretical framing reveals how individual recordings will trouble or expand the categorization of voice into speaking, reading, situational, and social ranges. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trent Wintermeier",
+          "italic": true
+        },
+        {
+          "text": ": The voices that Kilbane offers  help structure a listening experiences that can include hearing shape, warmth, and relationship:it provides a way to approach what might escape a our attention , which has been generally been more attuned to the verbal and other  “more audible” events on a recording. . With this categorization of annotations, we’re able to encounter those moments differently by sorting and indexing according to the contextual and temporal changes that these voices (reading, situated, social, speaking) transmit, including ,the silences in Muriel Rukeyser’s poetry reading that I annotate. I think the impact of these barely-present and almost-missed acoustic elements—their regularity, their almost omnipresence lurking in the background of the verbal, spoken, and sounded—is an affordance of this framework. These categories invite critical reflections about  our definitions of voice across these recordings. To use Kilbane’s language from above, I’m interested in what’s “inlaid” in these voices: the generally ignored and unnoticed spatial, textual, and technological, yes, but also our own assumptions that we find embedded in these recordings. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Finally, I’m reminded of Michele Comstock and Mary Hock’s explanation that “voice, like music, is vibration,” and that the “vibrating vocal chords in the body create the sounds that become a voice.” The  reading, speaking, situational, and social tenors of these voices—these are all parts of this “becoming” that Comstock and Hocks mention. Not only in terms of the relationship between the speaker, audience, and their environment—such as in spatial and temporal circumstances—but what the recording itself makes intelligible and recognizable. Building from Nina Sun Eidsheim (2015), this sense of listening is attuned to the material and socio-historical productions of voice that slip out of the background. Maybe we don’t need another category of voice that accounts for this sort of emergence, because it seems like we’re already noticing it within the conceptual and critical framework we employ in these micro-editions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Editorial Apparatus",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tanya Clement",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This thematic cluster of scholarly micro-editions takes into account standards for reliable texts that are “accurate, adequate, appropriate, consistent, and explicit” (“Guidelines for Editors of Scholarly Editions”) as well as “the ideological structures and material processes that shape the creation, transmission, reception, production, and interpretation of texts” ("
+        },
+        {
+          "text": "https://textualsociety.org/",
+          "link": "https://textualsociety.org/"
+        },
+        {
+          "text": "). At the same time, it is situated by a rationale for AV textuality (Clement 2016) in which extra-textual, meaning-making signifiers such as “voice” are at play, realized in digital information systems that provide playback. Annotating has been a methodology in the humanities for adding contextual information to texts since the Middle Ages, but it is also an important aspect of digital information technologies, providing structures and frameworks that influence how texts appear and how readers, viewers, and listeners perceive and use them. In a digital edition like “Voices,” both kinds of annotations are present. Annotations like transcriptions and notes function as commentary and explanation to facilitate understandability, but tags are also annotations that classify and categorize commentaries and explanations to ensure search, indexicality, and discoverability. The "
+        },
+        {
+          "text": "AVAnnotate",
+          "link": "https://av-annotate.org/"
+        },
+        {
+          "text": " application used to created this edition is open-source software that leverages the International Image Interoperability Framework (IIIF) standard for AV materials and GitHub in a minimal computing workflow that simplifies the production of standards-based, user-generated, online projects and provides sustainable, much-needed commentary and context around what are often under-used and culturally sensitive AV collections. IIIF is a standardized solution that libraries and archives have adopted to give users the ability to perform scholarly methods for research and teaching using third-party platforms like AVAnnotate. In “Voices,” annotating is a sociotechnial, scholarly methodology that facilitates other humanities methods such as discovering, comparing, referring, sampling, illustrating, and representing (Unsworth 2000). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Belgrad, Daniel. "
+        },
+        {
+          "text": "The Culture of Feedback: Ecological Thinking in Seventies America",
+          "italic": true
+        },
+        {
+          "text": ". University of \tChicago Press, 2019."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bernstein, Charles. “Introduction.” In "
+        },
+        {
+          "text": "Close Listening: Poetry and the Performed Word",
+          "italic": true
+        },
+        {
+          "text": ", edited by Charles Bernstein, 3-26. Oxford UP, 1998"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Burnett, D. Graham. “Adult Swim: How John C. Lilly Got Groovy (and Took the Dolphin with Him), 1958-1968.” In "
+        },
+        {
+          "text": "Groovy Science: Knowledge, Innovation & American Counterculture",
+          "italic": true
+        },
+        {
+          "text": ", edited by David Kaiser and W. Patrick McCray, 13-50. University of Chicago Press, 2016."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Camlot, Jason. "
+        },
+        {
+          "text": "Phonopoetics: The Making of Early Literary Recordings",
+          "italic": true
+        },
+        {
+          "text": ". Stanford UP, 2019."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cavarero, Adriana. "
+        },
+        {
+          "text": "For More Than One Voice: Toward a Phenomenology of Vocal Expression",
+          "italic": true
+        },
+        {
+          "text": ". Translated by Paul Kottman. Stanford UP, 2005."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clement, Tanya E. "
+        },
+        {
+          "text": "Dissonant Records: Close Listening to Literary Archives",
+          "italic": true
+        },
+        {
+          "text": ". MIT Press, 2024."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Davidson, Michael. "
+        },
+        {
+          "text": "The San Francisco Renaissance: Poetics and Community at Mid-Century",
+          "italic": true
+        },
+        {
+          "text": ". Cambridge University Press, 1989."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Furlonge, Nicole Brittingham. "
+        },
+        {
+          "text": "Race Sounds: The Art of Listening in African American Literature",
+          "italic": true
+        },
+        {
+          "text": ". Iowa UP, 2018."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Guidelines for Editors of Scholarly Editions.” Modern Language Association, "
+        },
+        {
+          "text": "https://www.mla.org/Resources/Guidelines-and-Data/Reports-and-Professional-Guidelines/Guidelines-for-Editors-of-Scholarly-Editions",
+          "link": "https://www.mla.org/Resources/Guidelines-and-Data/Reports-and-Professional-Guidelines/Guidelines-for-Editors-of-Scholarly-Editions"
+        },
+        {
+          "text": ". Accessed 30 Nov. 2024."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gautier, Ana María Ochoa. "
+        },
+        {
+          "text": "Aurality: Listening and Knowledge in Nineteenth-Century Colombia",
+          "italic": true
+        },
+        {
+          "text": ". Duke UP, 2014."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Is Robin Here?” SoundBox Signals, season 1, episode 4, The AMP Lab. 22 Apr 2020. "
+        },
+        {
+          "text": "https://soundbox-signals.simplecast.com/episodes/is-robin-here",
+          "link": "https://soundbox-signals.simplecast.com/episodes/is-robin-here"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kahn, Douglas. "
+        },
+        {
+          "text": "Noise, Water, Meat: A History of Sound in the Arts",
+          "italic": true
+        },
+        {
+          "text": ". MIT Press, 2001."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lilly, John C. "
+        },
+        {
+          "text": "The Deep Self: Consciousness Exploration in the Isolation Tank",
+          "italic": true
+        },
+        {
+          "text": ". Gateway Books and Tapes, 2007."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "McClure, Michael. "
+        },
+        {
+          "text": "Ghost Tantras",
+          "italic": true
+        },
+        {
+          "text": ". City Lights Publishers, 2013."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "---. "
+        },
+        {
+          "text": "Scratching the Beat Surface",
+          "italic": true
+        },
+        {
+          "text": ". North Point Press, 1982."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "McEnaney, Tom. "
+        },
+        {
+          "text": "Acoustic Properties: Radio, Narrative, and the Neighborhood of the Americas",
+          "italic": true
+        },
+        {
+          "text": ". Northwestern UP, 2017."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sterne, Jonathan. "
+        },
+        {
+          "text": "The Audible Past: Cultural Origins of Sound Reproduction",
+          "italic": true
+        },
+        {
+          "text": ". Duke UP, 2003."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stoever, Jennifer Lynn. "
+        },
+        {
+          "text": "The Sonic Color Line: Race and the Cultural Politics of Listening",
+          "italic": true
+        },
+        {
+          "text": ". New York UP, 2016."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teague, Jessica E. "
+        },
+        {
+          "text": "Sound Recording Technology and American Literature: From the Phonograph to the Remix",
+          "italic": true
+        },
+        {
+          "text": ". Cambridge UP, 2021."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Unsworth, John. Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might Our Tools Reflect This? 13 May 2000, "
+        },
+        {
+          "text": "http://www.iath.virginia.edu/~jmu2m/Kings.5-00/primitives.html",
+          "link": "http://www.iath.virginia.edu/~jmu2m/Kings.5-00/primitives.html"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "title": "Introduction",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction",
+  "created_at": "2024-12-01T20:24:04.146Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-01T20:24:04.146Z",
+  "updated_by": "tanyaclement"
+}
