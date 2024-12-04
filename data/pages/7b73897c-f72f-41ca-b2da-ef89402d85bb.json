@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tanya Clement",
+          "bold": true
+        },
+        {
+          "text": ", University of Texas at Austin"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tanya E. Clement is an Associate Professor in the Department of English and Director of the Initiative for Digital Humanities at the University of Texas at Austin. Her areas of research are modernist, textual, sound, and infrastructure studies as these concerns impact academic research, research libraries, and the creation of research tools and resources in Digital Humanities (DH). She leads High Performance Sound Technologies for Access and Scholarship (HiPSTAS) to increase access and scholarship with audiovisual cultural heritage collections. Her book Dissonant Records: Close Listening to Literary Archives will be published in August 2024 with MIT Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Matthew Kilbane",
+          "bold": true
+        },
+        {
+          "text": ", University of Notre Dame"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Matthew Kilbane is the Glynn Family Honors Assistant Professor of English at the University of Notre Dame, where he teaches and writes about modern and contemporary poetry in the U.S., poetry and music, the history of sound technologies, and digital literary cultures. His first book, The Lyre Book: Modern Poetic Media (Johns Hopkins University Press, 2024), unfolds a disciplinary meeting place for literary and media studies around modern lyric poetry. Opening our lyric archives to such things as pop songs, radio poems, closet operas, and speech-music, the book’s media theory of the lyric shows how literary scholars can look to media history to understand transformations in the social life of poetry, and how media archaeologists can read lyric forms for insight into the cultural history of technology."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Emily Christina Murphy",
+          "bold": true
+        },
+        {
+          "text": ", University of British Columbia Okanagan"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Emily Christina Murphy is Assistant Professor, Digital Humanities in the Faculty of Creative and Critical Studies at the University of British Columbia’s Okanagan Campus. Her research focuses on multimedia cultural memory, and she is Principal Investigator of the ReMedia Research Infrastructure, a Canada Foundation for Innovation-funded research facility, and of the Modernist Remediations project, funded by the Social Science Research Council of Canada. Her work appears in English Studies in Canada, Digital Humanities Quarterly, and Feminist Modernist Studies. She is currently completing an edited collection on teaching with digital storytelling platform, Twine, and writing a monograph on comics and cultural memory."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Karis Shearer",
+          "bold": true
+        },
+        {
+          "text": ", University of British Columbia Okanagan"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Karis Shearer is an Associate Professor in English & Cultural Studies at UBC’s Okanagan campus where her research and teaching focus on literary audio, the literary event, the digital archive, feminist data studies, book history, and women’s labour within poetry communities. She is also PI and Director of the AMP Lab."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trent Wintermeier",
+          "bold": true
+        },
+        {
+          "text": ", University of Texas at Austin"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trent Wintermeier is a Rhetoric PhD student at the University of Texas at Austin. He researches sound, noise, digital rhetorics, and composition pedagogy. Currently, he is a research assistant for AVAnnotate, a software which allows users to create and publish digital annotations of audio artifacts. He also works as a facilitator for URAP, where he is making audio from the Gloria Anzaldúa archive more accessible and discoverable. His work can be found in Texas ScholarWorks and the E3W Review of Books."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Contributors",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "contributors",
+  "created_at": "2024-12-04T20:23:54.795Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-04T20:23:54.795Z",
+  "updated_by": "tanyaclement"
+}
