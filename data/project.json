@@ -16,7 +16,13 @@
     "authors": "Tanya Clement, Matthew Kilbane, Emily Murphy, Karis Shearer, Trent Wintermeier",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "ecbmurphy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29633207?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -72,7 +78,7 @@
       ]
     },
     "created_at": "2024-12-01T19:25:41.272Z",
-    "updated_at": "2024-12-04T20:23:55.119Z",
+    "updated_at": "2024-12-07T14:21:27.361Z",
     "generate_pages_site": true
   },
   "is_private": false
