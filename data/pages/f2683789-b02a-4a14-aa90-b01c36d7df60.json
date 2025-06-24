@@ -12,8 +12,17 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Voices",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-two"
         }
       ]
     },
@@ -30,7 +39,24 @@
       "type": "paragraph",
       "children": [
         {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Conventional approaches to literary audio presume that when we hear the performance of a poet’s work we are overhearing, first of all, the sonorous publication of a preexisting artwork whose primary mode of access is private print reading—not a new and complex literary-historical event with its own pressing, situated claims on our attention. Happily these approaches no longer exhaust the field of critical possibility. Close listeners to poetry’s audio archives have grasped for a while now that sonic media turn up the volume, as it were, on the fact of any iterable text’s “fundamentally plural existence” (Bernstein 9). But it hasn’t always been clear just what can be done with that messy, mediated plurality, which includes both the various instantiations of a poem and the myriad layers of observation entailed by the study of what Jason Camlot has dubbed “phonopoetics,” “the emergence and making (poeisis) of literary speech sounds (phono)” that comprise the historical audio record (5). It hasn’t always been easy, in other words, to hold in mind what  Clement terms the “resonant dissonances” of the audio archive—those difference-making “material, contextual, and political details of audio recordings”—that “coexist in clamorous superimposition” (xv, 21).   "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -46,7 +72,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Requiring the least degree of interpretative abstraction, speaking voice is essentially synonymous with what transcription makes available. Attention to the reading voice, by contrast, strives to restore the difference made by the dynamic relationship between the performative voice and the printed page. It invites the recited text into the orbit of analysis. The situational voice, meanwhile, attunes us to the live relation between performer and responsive audience. Finally, listening for the social voice requires tarrying with the grain of address and its expressive physiological textures–the “unique voice that signifies nothing but itself,” in Adriana Cavarero’s phrase–as much as the compacted social histories those textures index, from a speaker’s age and gender performance to their cultural location in time and geographical space, etc. (Cavarero 7)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -62,8 +104,17 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Co-editors Dialogue",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-two"
         }
       ]
     },
@@ -80,11 +131,28 @@
       "type": "paragraph",
       "children": [
         {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Karis Shearer",
           "italic": true
         },
         {
           "text": ": Emily Murphy and I have for some time been looking for theoretical language for what Kilbane calls the “situational” and “social” voice. Long before our work on our micro-edition, we discussed Warren Tallman’s introduction to the “Charles Olson Memorial Reading” from March 14th, 1970 on our SoundBox Signals podcast. In that podcast episode, the recording invited us to attend to the social, embodied, and poetic norms that are audible on the tape. What were we able to discern from listening?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -112,6 +180,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Trent Wintermeier",
           "italic": true
         },
@@ -132,6 +208,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Editorial Apparatus",
           "bold": true
         }
@@ -143,6 +227,15 @@
         {
           "text": "Tanya Clement",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
         }
       ]
     },
@@ -502,6 +595,6 @@
   "slug": "introduction",
   "created_at": "2024-12-01T20:24:04.146Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-01-08T14:03:59.891Z",
+  "updated_at": "2025-06-24T17:12:42.958Z",
   "updated_by": "tanyaclement"
 }
