@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 3,
-      "end_time": 3,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The last poem I'll read this evening is a group. The group is called “The Speed of Darkness.”"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speaking",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "58df5768-12f7-4ddb-96e1-e39caa49fdf2"
-    },
-    {
       "start_time": 13,
       "end_time": 13,
       "annotation": [
