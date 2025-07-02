@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 343,
-      "end_time": 343,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "My night awake staring at the broad rough jewel, the copper roof across the way, thinking of the poet yet unborn in this dark who will be the throat of these hours. No. Of those hours. Who will speak these days, if not I, if not you?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "1b5ba140-a52c-4448-a29a-06e59965ffd6"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "553604fa-83a8-4226-938b-58a20ff0e395",
   "source_id": "3b06d9eb-2b6f-4c02-bf4c-722a03de9d93"
