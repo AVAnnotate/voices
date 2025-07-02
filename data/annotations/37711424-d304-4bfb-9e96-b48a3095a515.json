@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 184,
-      "end_time": 184,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I look across at the real, vulnerable, involved, naked; devoted to the present of all I care for. The world of its history leading to this moment."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "8d073022-fbe4-4825-96f2-4c61464f7c98"
-    },
-    {
       "start_time": 200,
       "end_time": 200,
       "annotation": [
