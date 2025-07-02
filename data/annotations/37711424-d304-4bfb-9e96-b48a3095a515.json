@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 224,
-      "end_time": 224,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ends of the earth join tonight with blazing stars upon their meeting. These sons, these sons fall burning into Asia."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "5f3d2b37-03a6-4007-8b04-3527b6d94bb0"
-    },
-    {
       "start_time": 236,
       "end_time": 236,
       "annotation": [
