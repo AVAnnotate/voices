@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 238,
-      "end_time": 238,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Time comes into it. Say it. Say it. The universe is made of stories, not of atoms."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "d34217bc-e3e1-4d90-9734-cfa2330badce"
-    },
-    {
       "start_time": 247,
       "end_time": 247,
       "annotation": [
