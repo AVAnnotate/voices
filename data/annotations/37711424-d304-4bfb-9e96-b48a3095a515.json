@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 297,
-      "end_time": 297,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Space 11"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Social",
-          "category": "Voice"
-        },
-        {
-          "tag": "Notes",
-          "category": "Type"
-        }
-      ],
-      "uuid": "54de0436-ff6a-48c6-84b6-0ecd05edeefd"
-    },
-    {
       "start_time": 301,
       "end_time": 301,
       "annotation": [
