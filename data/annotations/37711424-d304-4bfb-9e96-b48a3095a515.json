@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 13,
-      "end_time": 13,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "They’re short poems, and I'll just pause between poems. There should be numbers going up and back of me: 1, 2, 3. I’ll just-- I will pause. “The Speed of Darkness.”"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speaking",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "333ba0fa-67b7-4100-a654-22de10d30ceb"
-    },
-    {
       "start_time": 30,
       "end_time": 30,
       "annotation": [
