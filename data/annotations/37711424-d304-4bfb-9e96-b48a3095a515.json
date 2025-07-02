@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 73,
-      "end_time": 73,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Stillness during war, the lake. The unmoving spruces. Glints over the water. Faces, voices. You are far away. A tree that trembles. I am the tree that trembles and trembles."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "3a0485ed-5126-4eb4-961e-305305233447"
-    },
-    {
       "start_time": 96,
       "end_time": 96,
       "annotation": [
