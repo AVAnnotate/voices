@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 281,
-      "end_time": 281,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The river flows past the city. Water goes down to tomorrow making its children. I hear their unborn voices. I am working out the vocabulary of my silence."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "2014f551-97fe-4616-9df2-5f152667d3bb"
-    },
-    {
       "start_time": 297,
       "end_time": 297,
       "annotation": [
