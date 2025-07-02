@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 101,
-      "end_time": 101,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "After the lifting of the mist, after the lift of the heavy rains, the sky stands clear and the cries of the city risen in day. I remember the buildings are space walled, to let space be used for living. I mind this room is space this drinking glass is space whose boundary of glass let’s me give you drink and space to drink your hand, my hand being space containing skies and constellations. Your face carries the reaches of air. I know I am space my words are air."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "3bb8fbdf-fa8b-406f-9698-664109b05deb"
-    },
-    {
       "start_time": 155,
       "end_time": 155,
       "annotation": [
