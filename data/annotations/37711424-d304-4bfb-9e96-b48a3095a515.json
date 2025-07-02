@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 54,
-      "end_time": 54,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "No longer speaking. Listening with the whole body. And with every drop of blood. Overtaken by silence. But this same silence is become speech, with the speed of darkness."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Reading",
-          "category": "Voice"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "67fcdb68-9766-4106-956d-fa47cc3131a4"
-    },
-    {
       "start_time": 72,
       "end_time": 72,
       "annotation": [
