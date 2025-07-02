@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 221,
-      "end_time": 221,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Audience member coughs"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Situated",
-          "category": "Voice"
-        },
-        {
-          "tag": "Notes",
-          "category": "Type"
-        }
-      ],
-      "uuid": "a18030f1-72ca-4d5f-9281-be16bdd7c8ea"
-    },
-    {
       "start_time": 224,
       "end_time": 224,
       "annotation": [
