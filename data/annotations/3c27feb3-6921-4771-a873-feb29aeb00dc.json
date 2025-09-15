@@ -1611,16 +1611,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Situational"
-        },
-        {
           "category": "Speaker",
           "tag": "Announcer"
         },
         {
           "tag": "Transcription",
           "category": "Type"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
         }
       ],
       "uuid": "c62f6cf3-0076-4c9f-a7d5-4dd362f5069a"
