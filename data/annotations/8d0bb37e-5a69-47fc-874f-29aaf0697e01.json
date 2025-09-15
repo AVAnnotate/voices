@@ -1074,31 +1074,6 @@
         }
       ],
       "uuid": "0971a0f6-2316-46cb-a666-e86d799266ab"
-    },
-    {
-      "start_time": 3642,
-      "end_time": 3646,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Audience laughter"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Voice",
-          "tag": "Situational"
-        },
-        {
-          "tag": "Notes",
-          "category": "Type"
-        }
-      ],
-      "uuid": "470dd33f-3785-46cc-982c-85b988a8baca"
     }
   ],
   "set": "Default",
