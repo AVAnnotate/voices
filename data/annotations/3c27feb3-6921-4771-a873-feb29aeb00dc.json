@@ -1640,16 +1640,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Situational"
-        },
-        {
           "category": "Speaker",
           "tag": "Announcer"
         },
         {
           "tag": "Transcription",
           "category": "Type"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
         }
       ],
       "uuid": "fa59fae3-5d07-45f5-aee3-eb5c8257b1c0"
