@@ -1083,7 +1083,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughter"
+              "text": "Audience laughter"
             }
           ]
         }
@@ -1092,6 +1092,10 @@
         {
           "category": "Voice",
           "tag": "Situational"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
         }
       ],
       "uuid": "470dd33f-3785-46cc-982c-85b988a8baca"
