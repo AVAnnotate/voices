@@ -1329,16 +1329,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Situational"
-        },
-        {
           "category": "Speaker",
           "tag": "Audience"
         },
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
         }
       ],
       "uuid": "685af6f1-9b2b-4e48-88f7-239d38d79e52"
