@@ -846,6 +846,10 @@
         {
           "tag": "Transcription",
           "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
         }
       ],
       "uuid": "058abebf-d078-43d6-add1-cc4aeba7db17"
