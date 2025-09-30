@@ -458,7 +458,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Applause"
+              "text": "The audience applauds."
             }
           ]
         }
@@ -471,6 +471,10 @@
         {
           "category": "Voice",
           "tag": "Situational"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
         }
       ],
       "uuid": "bf339db9-cf28-4f35-841e-e732a47973a8"
