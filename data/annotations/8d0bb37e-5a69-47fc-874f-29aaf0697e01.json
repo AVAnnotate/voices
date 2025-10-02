@@ -1172,6 +1172,35 @@
         }
       ],
       "uuid": "0971a0f6-2316-46cb-a666-e86d799266ab"
+    },
+    {
+      "start_time": 3548,
+      "end_time": 3550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "807d9f0a-970e-41ff-928b-61d5784ace64"
     }
   ],
   "set": "Default",
