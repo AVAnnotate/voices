@@ -2440,7 +2440,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Clunk/static sound from microphone; soft rustling"
+              "text": "There is the sound of a clunk and static sound from the microphone with soft rustling."
             }
           ]
         }
@@ -2453,10 +2453,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "3e6ba506-f395-415b-bb8c-67872300b825"
