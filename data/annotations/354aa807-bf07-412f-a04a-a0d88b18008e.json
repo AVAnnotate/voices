@@ -37,7 +37,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marlatt's cadence picks up on \"certainly not\" and as she laughs we can also hear laughter from an audience close by. "
+              "text": "Marlatt's cadence picks up on \"certainly not\" and as she laughs, there is also laughter from an audience member close by. "
             }
           ]
         }
@@ -50,6 +50,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
         }
       ],
       "uuid": "33fba549-3877-4a9b-9c03-68ef8c803498"
