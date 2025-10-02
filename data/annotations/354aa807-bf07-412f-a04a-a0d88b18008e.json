@@ -178,7 +178,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Uptalk at the end of French-language title"
+              "text": "There is uptalk at the end of French-language title."
             }
           ]
         }
@@ -191,10 +191,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "5c5e8cf0-e2de-470b-b7ed-0c50ee89e653"
