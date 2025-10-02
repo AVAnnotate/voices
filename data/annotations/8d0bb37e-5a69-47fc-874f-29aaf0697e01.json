@@ -1201,6 +1201,35 @@
         }
       ],
       "uuid": "807d9f0a-970e-41ff-928b-61d5784ace64"
+    },
+    {
+      "start_time": 3550,
+      "end_time": 3554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It makes a nice introduction. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e59eb429-2f78-455a-8e67-a13cd338856b"
     }
   ],
   "set": "Default",
