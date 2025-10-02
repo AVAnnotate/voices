@@ -5139,7 +5139,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soft laughter, rustling"
+              "text": "There is the sound of soft laughter and rustling."
             }
           ]
         }
@@ -5152,10 +5152,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "a9d38c8b-cf0e-45f7-8e62-61c0efc50b61"
