@@ -2494,7 +2494,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Uptalk after \"more\""
+              "text": "There is uptalk after the word \"more.\""
             }
           ]
         }
@@ -2507,10 +2507,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "eadb067e-544d-4342-a8a1-d2996dfb470d"
