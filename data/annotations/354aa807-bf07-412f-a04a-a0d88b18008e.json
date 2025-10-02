@@ -3780,7 +3780,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rustling pages"
+              "text": "There is the sound of rustling pages."
             }
           ]
         }
@@ -3793,10 +3793,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "dfa9a549-cb72-4d6b-b393-b7c06f031de5"
