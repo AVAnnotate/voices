@@ -2382,7 +2382,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soft laughter from the room"
+              "text": "There is the sound of soft laughter from the audience."
             }
           ]
         }
@@ -2398,7 +2398,7 @@
         },
         {
           "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
+          "tag": "Audience"
         }
       ],
       "uuid": "4f78944c-2cce-4c1f-b513-06ef441c3b4b"
