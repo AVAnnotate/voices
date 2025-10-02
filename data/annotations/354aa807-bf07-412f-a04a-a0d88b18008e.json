@@ -360,7 +360,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Extended i sound in \"alive\""
+              "text": "There is an extended i sound in \"alive.\""
             }
           ]
         }
@@ -373,10 +373,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "1c587f9a-5b26-4ab3-b93e-480e44b2320e"
