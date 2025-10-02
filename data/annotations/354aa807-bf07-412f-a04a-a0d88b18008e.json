@@ -153,7 +153,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Uptalk at end of sentence"
+              "text": "There is uptalk at end of sentence."
             }
           ]
         }
@@ -166,10 +166,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "0023e4be-f5bf-4bd8-b6d5-f97b9bf8c29c"
