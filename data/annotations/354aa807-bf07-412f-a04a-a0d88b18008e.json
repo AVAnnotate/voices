@@ -3239,7 +3239,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughter begins in the room before Marlatt finishes her sentence, louder than before, possibly from one person"
+              "text": "Laughter begins from the audience before Marlatt finishes her sentence, louder than before, possibly from one person."
             }
           ]
         }
@@ -3255,7 +3255,7 @@
         },
         {
           "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
+          "tag": "Audience"
         }
       ],
       "uuid": "68539994-6b85-4f8e-9f62-4ded64e4922b"
