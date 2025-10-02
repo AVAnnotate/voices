@@ -1878,7 +1878,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A microphone clunk as the tape from 1969 switches on"
+              "text": "There is the sound of a microphone clunk as the tape from 1969 switches on."
             }
           ]
         }
@@ -1891,10 +1891,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 1969"
         }
       ],
       "uuid": "5bae1a0c-6f89-4600-b2a4-6eff267d2785"
