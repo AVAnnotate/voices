@@ -331,7 +331,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Extended o sound in \"move\" "
+              "text": "There is an extended o sound in \"move.\" "
             }
           ]
         }
@@ -344,10 +344,6 @@
         {
           "tag": "Notes",
           "category": "Type"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Daphne Marlatt 2019"
         }
       ],
       "uuid": "9aceea14-365a-4a89-b1c4-a51f2fcf6f21"
