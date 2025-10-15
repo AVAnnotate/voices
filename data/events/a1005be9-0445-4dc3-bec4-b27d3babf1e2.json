@@ -16,18 +16,49 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In 2018, Canadian poet Daphne Marlatt reads poems alongside a recording of her younger self in 1969. Transcripts and editorial notes by Emily Christina Murphy and "
+          "text": "In this microedition, listeners hear the public reading Canadian poet Daphne Marlatt gave in Kelowna, British Columbia on September 19, 2019, which included\na choreographed duet with her archival recorded voice from 1969. “Performing the Archive,” or bringing sounds of the past to the present—"
         },
         {
-          "text": "Karis Shearer.",
-          "link": ""
+          "text": "re-sounding",
+          "italic": true
+        },
+        {
+          "text": "\nthem—allows us to hear living moments, the sentiments, experiences underpinning every pause and shift in intonation, and the changes that have happened in between. "
+        },
+        {
+          "type": "link",
+          "url": null,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The event, called “Daphne Marlatt: Performing the Archive,” was co-organized by UBC Okanagan SpokenWeb team members Karis Shearer, Megan Butchart, and Craig Carpenter in collaboration with Inspired Word Cafe (IWC) organizers Cole Mash and Erin Scott, and funded by UBC’s Tuum Est and the SpokenWeb SSHRC Partnership Grant. It was hosted by Milkcrate Records in Kelowna, BC, and styled after a Montreal series created by Jason Camlot called “Performing the SpokenWeb Archive,” which brings together poets to read with their archival voices. Audio and video recordings were made by Inspired Word Cafe, with the audio made available on the SpokenWeb SoundBox Collection website, and video recording hosted on The AMP Lab’s YouTube channel.\n"
         }
       ]
     }
   ],
   "created_at": "2024-12-01T19:27:58.138Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-10-14T16:13:03.515Z",
+  "updated_at": "2025-10-15T18:40:24.009Z",
   "updated_by": "tanyaclement",
   "av_file_order": [
     "26003e31-29bc-4fca-b914-8ae1966e833d"
