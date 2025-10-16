@@ -1312,6 +1312,62 @@
         }
       ],
       "uuid": "e6a65c1b-8c0a-41b9-814d-e6a2109ef1c1"
+    },
+    {
+      "start_time": 118,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They read together in 1965, in Berkeley, as part of the Vietnam peace protests, and in February 1967, they read at the “Be-In” in San Francisco with Suzuki Roshi on the stage. They did three Timothy Leary benefits from 1965 to ’72, and there were numerous other ‘om orgies’ and ‘monster’ poetry readings and ‘return of the monster’ poetry readings in California. They picketed the Varig Airlines together for the Living Theater, and were among the original circumambulators of Mount Tamalpais. They read together at the Poetry Project at St. Mark’s Church at the Bowery in 1974, and also at a benefit for his holiness Gyalwa Karmapa in San Francisco, also in ’74. So this reading is a continuation of some kind of poetic karmic link between these two poets, between Michael and Allen, so, we’re witnessing this [Waldman laughs]. Michael’s most recent books are "
+            },
+            {
+              "text": "Jaguar Skies",
+              "italic": true
+            },
+            {
+              "text": ", published by New Directions this year, and "
+            },
+            {
+              "text": "Rare Angel",
+              "italic": true
+            },
+            {
+              "text": ", published by Black Sparrow, and he tells me he’s recently revised his novel, "
+            },
+            {
+              "text": "The Adept",
+              "italic": true
+            },
+            {
+              "text": ", or he’s in the process of revising his novel, "
+            },
+            {
+              "text": "The Adept. ",
+              "italic": true
+            },
+            {
+              "text": "Allen’s most recent book is "
+            },
+            {
+              "text": "First Blues: Rags, Ballads, and Harmonium Songs",
+              "italic": true
+            },
+            {
+              "text": ", published by Full Court Press this year. Welcome. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        }
+      ],
+      "uuid": "4a18de43-8d24-4f4c-a0f2-4389117ad801"
     }
   ],
   "set": "Default",
