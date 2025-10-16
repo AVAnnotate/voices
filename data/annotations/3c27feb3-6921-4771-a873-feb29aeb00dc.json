@@ -2436,6 +2436,27 @@
         }
       ],
       "uuid": "7f4a1bb9-9195-497f-b594-5ecd60599977"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser's focus on the lies of poetry and \"if a man does it, he's sexually questionable; if a woman does it, she's sexually questionable,\" is informed by her own queerness and how she uses silence to create new forms of speech. In the context of her later poem, \"The Speed of Darkness,\" spaces between stanzas are not empty but embody this queerness as they employ silence to refuse conventional poetic forms. Too, these silences further reenforce the \"questionable\" nature sexuality made present in her poetry, demonstrating Rukeyser's resistance to the import of spoken word."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "6b0bff04-2c40-4587-b6bc-545d9476b3d6"
     }
   ],
   "set": "Default",
