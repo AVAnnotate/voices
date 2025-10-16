@@ -2478,6 +2478,27 @@
         }
       ],
       "uuid": "d2ae44c8-2211-44d5-b64c-dc7c6de79ea0"
+    },
+    {
+      "start_time": 319,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser speaks to the shared experience of poetry and silence, saying that \"you're giving me whatever silence you are giving me and it comes to me with great strength, your silence.\" In this evocative moment, she locates silences as a relational activity that gains force and meaning in the shared experience of betweenness and other-than-spoken word. Too, the listening-audience creates these silences; the listener \"gives\" silence meaning through presence and attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "546e7a7a-1763-4bd6-b193-84817a36927a"
     }
   ],
   "set": "Default",
