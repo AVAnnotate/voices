@@ -1259,6 +1259,34 @@
         }
       ],
       "uuid": "2c7078f5-4772-453c-99fb-b0b716dc3ce6"
+    },
+    {
+      "start_time": 28,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…[Allen Ginsberg] was cofounder and codirector of the Kerouac School. Allen first laid eyes on Michael McClure… [inaudible]…that Kenneth Rexroth had advised him to visit in 1954 in San Francisco. But they did not officially meet until a party at Ruth Witt-Diamant’s for W.H. Auden later that year. They spoke for five or ten minutes at this party. Michael gave Allen his address and Allen visited him several weeks later with Jack Keroauc. Okay, that was in 1954. The famous Six Gallery reading—that was the name of the gallery, the Six Gallery; it was run by six artists—took place in 1955 and Allen read the first part of "
+            },
+            {
+              "text": "Howl",
+              "italic": true
+            },
+            {
+              "text": ", Michael read “For the Death of 100 Whales,” among other things. Since that time, Michael and Allen have frequently shared the stage with each other and jointly with others through the years. The second big historical reading in Berkeley in 1955, I think part of the “Poetry Apocalypse,” where Allen read his poem “America”—“American I am putting my queer shoulder to the wheel”—and Michael read his—what is this?—“Mantric Cadence Poem Called Light,” which is, uh, a repetition of the word “light” several hundred times. Towards the end of the poem, the words “elbow” and “nostril” appear.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        }
+      ],
+      "uuid": "6e21652c-4632-4a2a-a277-1cfe4bd8e7e2"
     }
   ],
   "set": "Default",
