@@ -2457,6 +2457,27 @@
         }
       ],
       "uuid": "6b0bff04-2c40-4587-b6bc-545d9476b3d6"
+    },
+    {
+      "start_time": 235,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser's repeated discussion of lies and lying--such as her call to not lie about the humanity activity with which poetry is concerned--is embedded with what she feels is forced into silence. Her poetry foregrounds the human activity unsaid in lies by using silence as a container for speaking and audibly revealing new moments for speech and rhetorical action. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "d2ae44c8-2211-44d5-b64c-dc7c6de79ea0"
     }
   ],
   "set": "Default",
