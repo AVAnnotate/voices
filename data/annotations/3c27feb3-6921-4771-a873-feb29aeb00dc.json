@@ -2499,6 +2499,27 @@
         }
       ],
       "uuid": "546e7a7a-1763-4bd6-b193-84817a36927a"
+    },
+    {
+      "start_time": 565,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser says \"Orpheus,\" the title of her recently published work, prior to reading \"The Poem as Mask.\" This is because \"The Poem as Mask\" is a response to Orpheus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "3f8ce5d0-161a-415f-93c4-4a97fd29f734"
     }
   ],
   "set": "Default",
