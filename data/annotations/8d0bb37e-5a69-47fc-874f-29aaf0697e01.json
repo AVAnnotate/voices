@@ -1348,6 +1348,10 @@
         {
           "category": "Voice",
           "tag": "Situational"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Anne Waldman"
         }
       ],
       "uuid": "e6a65c1b-8c0a-41b9-814d-e6a2109ef1c1"
