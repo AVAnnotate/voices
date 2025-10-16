@@ -1382,6 +1382,27 @@
         }
       ],
       "uuid": "4a18de43-8d24-4f4c-a0f2-4389117ad801"
+    },
+    {
+      "start_time": 211,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience applauds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        }
+      ],
+      "uuid": "451c37c5-f09c-475c-beec-0a21832c6ceb"
     }
   ],
   "set": "Default",
