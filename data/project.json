@@ -1,1 +1,96 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[],"project":{"github_org":"AVAnnotate","is_private":false,"title":"Voices: Micro-editions of Readings by Marlatt, McClure, and Rukeyser","description":"Draft under consideration for Scholarly Editing:The Annual of the Association for Documentary Editing","language":"en","slug":"voices","creator":"tanyaclement","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Voice","color":"#ADFFD9"},{"category":"Type","color":"#ADFEFF"},{"category":"_uncategorized_","color":"#A3A3A3"},{"color":"#FCB55F","category":"Speaker"}],"tags":[{"tag":"Speaking","category":"Voice"},{"tag":"Transcription","category":"Type"},{"tag":"Notes","category":"Type"},{"tag":"Reading","category":"Voice"},{"tag":"Social","category":"Voice"},{"category":"Voice","tag":"Situational"},{"category":"Speaker","tag":"Audience"},{"category":"Speaker","tag":"Announcer"},{"category":"Speaker","tag":"Muriel Rukeyser"},{"category":"Speaker","tag":"Michael McClure"},{"category":"Speaker","tag":"Daphne Marlatt 2019"},{"category":"Speaker","tag":"Daphne Marlatt 1969"}]},"created_at":"2024-12-01T19:25:41.272Z","updated_at":"2025-10-16T02:45:02.010Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "Voices: Micro-editions of Readings by Marlatt, McClure, and Rukeyser",
+    "description": "Draft under consideration for Scholarly Editing:The Annual of the Association for Documentary Editing",
+    "language": "en",
+    "slug": "voices",
+    "creator": "tanyaclement",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Voice",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Type",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "color": "#FCB55F",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Social",
+          "category": "Voice"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Announcer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Daphne Marlatt 2019"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Daphne Marlatt 1969"
+        }
+      ]
+    },
+    "created_at": "2024-12-01T19:25:41.272Z",
+    "updated_at": "2025-10-16T12:37:17.221Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
