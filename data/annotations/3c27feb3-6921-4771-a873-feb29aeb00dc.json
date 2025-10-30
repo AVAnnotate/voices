@@ -2502,20 +2502,28 @@
     },
     {
       "start_time": 565,
-      "end_time": 565,
+      "end_time": 637,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Rukeyser says \"Orpheus,\" the title of her recently published work, prior to reading \"The Poem as Mask.\" This is because \"The Poem as Mask\" is a response to Orpheus."
+              "text": "When I wrote of the women in their dances and wildness, it was a mask, on their mountain, god-hunting, singing, in orgy, it was a mask; when I wrote of the god, fragmented, exiled from himself, his life, the love gone down with song, it was myself, split open, unable to speak, in exile from myself. There is no mountain, there is no god, there is memory of my torn life, myself split open in sleep, the rescued child beside me among the doctors, and a word of rescue from the great eyes. No more masks! No more mythologies! Now, for the first time, the god lifts his hand, the fragments join in me with their own music."
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "Notes",
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
           "category": "Type"
         }
       ],
