@@ -2934,6 +2934,35 @@
         }
       ],
       "uuid": "e365e024-0105-4aca-9dec-f809029d6927"
+    },
+    {
+      "start_time": 2247,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come: you are the one chosen, by them, to serve them. Now, in the evening of L’Amour and La Mort. Come: you are the one chosen, by them, to love them. The child perceives and the cycles are fulfilled. Man’s dead. Dead never to be reborn. The islands and waters serve another lord, new, better. His eyes are the flowering of light. He is beautiful. The child smiles at him in his tears."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "595e77c0-9cf4-4414-a407-b5159cdb83d0"
     }
   ],
   "set": "Default",
