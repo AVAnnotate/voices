@@ -2760,6 +2760,35 @@
         }
       ],
       "uuid": "0b264244-aa18-4acc-a48d-45acdd6cd7f0"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How will you catch these clues at the moment of waking, take them, make them yours? Wake, do you, and light the lamp of sharpest whitest beam and write them down in the room of night on white— night opening and opening white paper under white light, write what streamed from you in darkness into you by dark? Indian Baptiste saying, We painted our dreams. We painted our dreams on our faces and bodies. We took them into us by painting them on ourselves. When we saw the water mystery of the lake after the bad dream, we painted the lines and masks, when the bear wounded me, I painted for healing. When we told in our dreams, in the colors of day red for earth, black for the opposite, rare green, white. Yellow. When I dreamed of weeping and dreamed of sorrow I painted my face with tears, with joy. Our ghost paintings and our dreams of war. The whole brow, the streak, the hands and sex, the breast. The spot of white, one hand black, one hand red. The morning star appearing over the hill. We took our dreams into our selves. We took our dreams into our bodies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "f314a7db-0e99-4287-bbbd-ab7440243c5d"
     }
   ],
   "set": "Default",
