@@ -501,19 +501,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "This is one called \"Endless.\""
+              "text": "This is one called \"Endless.\" Under the tall black sky you look out of your body lit by a white fire of the time between us, your body with its touch its weight smelling of new wood as on the day the news of battle reached us, falls beside the endless river flowing to the endless sea whose waves come to this shore a world away. Your body of new wood your eyes alive bark brown of tree trunks the leaves and flowers of trees, stars all caught in crown of trees, your life gone down, broken into endless earth no longer a world away but under my feet and everywhere I look down at the one earth under me, through to you and all the fallen, the broken, and their children born and unborn of the endless war."
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "Speaking",
-          "category": "Voice"
-        },
-        {
           "category": "Speaker",
           "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
         },
         {
           "tag": "Transcription",
