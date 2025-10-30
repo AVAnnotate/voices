@@ -2520,6 +2520,31 @@
         }
       ],
       "uuid": "3f8ce5d0-161a-415f-93c4-4a97fd29f734"
+    },
+    {
+      "start_time": 473,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In our period, they say there is free speech. They say there is no penalty poets, There is no penalty for writing poems. They say this. This is the penalty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "ad10aa5a-3c75-4253-a7c7-dc5be6e1819c"
     }
   ],
   "set": "Default",
