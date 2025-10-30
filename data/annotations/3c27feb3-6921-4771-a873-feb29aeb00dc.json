@@ -2702,6 +2702,35 @@
         }
       ],
       "uuid": "8f0b251c-0c38-4ea9-bd9a-31180d53b278"
+    },
+    {
+      "start_time": 963,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like all men, you come from singers, the ghettoes, the famines, wars and refusal of wars, men who built villages that grew to our solar cities, students, revolutionists, the pouring of buildings, the market newspapers, a poor tailor in a darkening room, a wilderness man, the hero of mines, the astronomer, a white-faced woman hour on hour teaching piano and her crippled wrist, like all men, you have not seen your father’s face but he is known to you forever in song, the coast of the skies, in dream, wherever you find man playing his part as father, father among our light, among our darkness, and in your self made whole, whole with yourself and whole with others, the stars your ancestors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "7b2e5588-5aa8-46ee-8a39-c716eeba7cea"
     }
   ],
   "set": "Default",
