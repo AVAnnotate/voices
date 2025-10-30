@@ -2992,6 +2992,35 @@
         }
       ],
       "uuid": "b99c834c-2541-4116-adb0-26d17a629383"
+    },
+    {
+      "start_time": 2768,
+      "end_time": 2771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "cc127dbd-cb95-4ddb-a291-eabe66c1a9de"
     }
   ],
   "set": "Default",
