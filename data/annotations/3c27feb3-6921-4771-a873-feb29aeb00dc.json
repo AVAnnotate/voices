@@ -2731,6 +2731,35 @@
         }
       ],
       "uuid": "7b2e5588-5aa8-46ee-8a39-c716eeba7cea"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were three of them that night. They wanted it to happen in the first woman's room. The man called her; the phone rang high. Then she put fresh lipstick on. Pretty soon he rang the bell. She dreamed, she dreamed, she dreamed. She scarcely looked him in the face But gently took him to his place. And after that the bell, the bell. They looked each other in the eyes, A hot July it was that night, And he then slow took off his tie, And she then slow took off her scarf, The second one took off her scarf, And he then slow his heavy shoe, And she then slow took off her shoe, The other one took off her shoe, He then took off his other shoe, The second one, her other shoe, A hot July it was that night. And he then slow took off his belt, And she then slow took off her belt, The second one took off her belt . . ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "9f6405bc-f4c5-44fd-b034-c452cd7eab82"
     }
   ],
   "set": "Default",
