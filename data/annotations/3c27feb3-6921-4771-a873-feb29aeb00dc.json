@@ -2644,6 +2644,35 @@
         }
       ],
       "uuid": "49ee2dbf-47e4-48ac-83c8-81469da733ad"
+    },
+    {
+      "start_time": 845,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My eyes are closing, my eyes are opening. You are looking into me with your waking look. My mouth is closing, my mouth is opening. You are waiting with your red promises. My sex is closing, my sex is opening. You are singing and offering: the way in. My life is closing, my life is opening. You are here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "f155c1f9-b151-4c7b-9aac-538ebd7755fc"
     }
   ],
   "set": "Default",
