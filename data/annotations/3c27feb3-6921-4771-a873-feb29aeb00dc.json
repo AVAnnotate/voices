@@ -2876,6 +2876,35 @@
         }
       ],
       "uuid": "8a92e6b6-3152-42e2-91b7-6bdb827f56fc"
+    },
+    {
+      "start_time": 2012,
+      "end_time": 2068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have to dream further, all the way to the fountain. We have to row centuries upstream, further than infancy, further than the beginning, further than the baptizing waters, to throw down walls between person and person, to join anew that which is separated. Life and death are not worlds opposite; they are one single stalk with two twin flowers. We have to dig up the lost word to decipher the tattooing on night, and to look face to face at noon, and tear the mask away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "3283942d-b100-41f2-9c4e-bc6fdf5b2425"
     }
   ],
   "set": "Default",
