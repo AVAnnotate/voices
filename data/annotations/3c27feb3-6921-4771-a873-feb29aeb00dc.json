@@ -2586,6 +2586,35 @@
         }
       ],
       "uuid": "c6e2e4fa-72da-4415-8699-7bbf5bfda45b"
+    },
+    {
+      "start_time": 670,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Flowers of air with lilac defining air; buildings of air with walls defining air; this May, people of air advance along the street; framed in their bodies, air, their eyes speaking to me, air in their mouths made into live meanings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "1cfa791f-2d45-4684-9bce-1426555a20ed"
     }
   ],
   "set": "Default",
