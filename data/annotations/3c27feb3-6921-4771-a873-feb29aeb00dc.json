@@ -2818,6 +2818,35 @@
         }
       ],
       "uuid": "521d8b70-fc3c-45e0-98ae-4fad15efa957"
+    },
+    {
+      "start_time": 1582,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now green, now burning. I make a way for peace. After the green and long beyond my lake, among these fields of people, on these illuminated hills, gold, burnt gold, spilled gold, and shadowed blue, the light of enormous flame, the flowing, light of the sea, where all the lights and nights are reconciled. The sea at last, where all the waters lead. And all the wars to this peace. For the sea does not lie like the death you imagine; this sea is the real sea, here it is. This is the living. This peace is the face of the world, a fierce angel who in one lifetime lives fighting a lifetime, dying as we all die, becoming forever, the continual god. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "2df51e4e-a5c1-4dfa-9bf7-9e99f2e50f74"
     }
   ],
   "set": "Default",
