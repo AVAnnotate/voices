@@ -2905,6 +2905,35 @@
         }
       ],
       "uuid": "3283942d-b100-41f2-9c4e-bc6fdf5b2425"
+    },
+    {
+      "start_time": 2095,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bleeding of the mountains, the noon bleeding, he is shot through the voice all things being broken. The moon returning in her blood looks down, grows white, loses color, and blazes and the near star gone. Voices of cities drumming in the moon bleeding of my right hand, my black voice bleeding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "e365e024-0105-4aca-9dec-f809029d6927"
     }
   ],
   "set": "Default",
