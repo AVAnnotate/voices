@@ -2550,6 +2550,10 @@
         {
           "tag": "Reading",
           "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
         }
       ],
       "uuid": "ad10aa5a-3c75-4253-a7c7-dc5be6e1819c"
