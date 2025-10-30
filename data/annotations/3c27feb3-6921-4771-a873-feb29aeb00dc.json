@@ -2673,6 +2673,35 @@
         }
       ],
       "uuid": "f155c1f9-b151-4c7b-9aac-538ebd7755fc"
+    },
+    {
+      "start_time": 887,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You come from poets, kings, bankrupts, preachers, attempted bankrupts, builders of cities, salesmen, the great rabbis, the kings of Ireland, failed drygoods storekeepers, beautiful women of the songs, great horsemen, tyrannical fathers at the shore of ocean, the western mothers looking west beyond from their windows, the families escaping over the sea hurriedly and by night– the roundtowers of the Celtic violet sunset, the diseased, the radiant, fliers, men thrown out of town, the man bribed by his cousins to stay out of town, teachers, the cantor on Friday evening, the lurid newspapers, strong women gracefully holding relationship, the Jewish girl going to parochial school, the boys racing their iceboats on the Lakes, the woman still before the diamond in the velvet window, saying “Wonder of nature.” Like all men, you come from singers, the ghettoes, the famines, wars and refusal of wars, men who built villages that grew to our solar cities, students, revolutionists, the pouring of buildings, the market newspapers, a poor tailor in a darkening room, a wilderness man, the hero of mines, the astronomer, a white-faced woman hour on hour teaching piano and her crippled wrist, like all men, you have not seen your father’s face but he is known to you forever in song, the coast of the skies, in dream, wherever you find man playing his part as father, father among our light, among our darkness, and in your self made whole, whole with yourself and whole with others, the stars your ancestors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "8f0b251c-0c38-4ea9-bd9a-31180d53b278"
     }
   ],
   "set": "Default",
