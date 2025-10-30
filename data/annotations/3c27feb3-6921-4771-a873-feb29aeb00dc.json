@@ -2615,6 +2615,35 @@
         }
       ],
       "uuid": "1cfa791f-2d45-4684-9bce-1426555a20ed"
+    },
+    {
+      "start_time": 706,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I lived in the first century of world wars. Most mornings I would be more or less insane, the newspapers would arrive with their careless stories, the news would pour out of various devices. Interrupted by attempts to sell products to the unseen. I would call my friends on other devices; they would be more or less mad for similar reasons. Slowly I would get to pen and paper, make my poems for others unseen and unborn. In the day I would be reminded of those men and women, brave, setting up signals across vast distances, considering a nameless way of living, of almost unimagined values. As the lights darkened, as the lights of night brightened, we would try to imagine them, try to find each other, to construct peace, to make love, to reconcile waking with sleeping, ourselves with each other, ourselves with ourselves. We would try by any means to reach the limits of ourselves, to reach beyond ourselves, to let go the means, to wake. I lived in the first century of these wars."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "49ee2dbf-47e4-48ac-83c8-81469da733ad"
     }
   ],
   "set": "Default",
