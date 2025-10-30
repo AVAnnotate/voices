@@ -2557,6 +2557,35 @@
         }
       ],
       "uuid": "ad10aa5a-3c75-4253-a7c7-dc5be6e1819c"
+    },
+    {
+      "start_time": 412,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A voice flew out of the river as morning flew out of the body of night, a voice sending out from the night of the sleeping Morning: a voice in its own voice, naked, made of the whole body and the whole life But without anything Breath. Breath of the fire love Smoke of the poems voices."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "c6e2e4fa-72da-4415-8699-7bbf5bfda45b"
     }
   ],
   "set": "Default",
