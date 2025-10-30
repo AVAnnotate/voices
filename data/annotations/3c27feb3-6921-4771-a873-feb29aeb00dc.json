@@ -465,35 +465,6 @@
       "uuid": "a30a2558-98c2-4cd4-a4ee-2397378daac2"
     },
     {
-      "start_time": 1046,
-      "end_time": 1046,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This is called \"Orgy.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speaking",
-          "category": "Voice"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Muriel Rukeyser"
-        },
-        {
-          "tag": "Transcription",
-          "category": "Type"
-        }
-      ],
-      "uuid": "f75fac94-6797-4fc6-aa03-137de93e17f1"
-    },
-    {
       "start_time": 1156,
       "end_time": 1184,
       "annotation": [
