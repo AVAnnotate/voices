@@ -2963,6 +2963,35 @@
         }
       ],
       "uuid": "595e77c0-9cf4-4414-a407-b5159cdb83d0"
+    },
+    {
+      "start_time": 2311,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voices of all our voices, running past an imagined race. Pouring out of morning light, the pouring mists of Mil Cumbres. Out of the poured cities of our world. Out of the black voice of one child who sleeps in our poverty and is dreaming. The child perceives and the cycles are fulfilled. Cities being poured; and war-fire over the poor. Mist over the peak. One child in his voice, many voices. The suffering runs past the end of the racing, making us run the next race. The child sleeps. Lovers, students, this child, enter into our voices. Speak to the child. Now something else is waking: The look of the lover, the rebel and learning look, the look of the runner just beyond the tape, go into The child’s look at the world. In all its voices."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "b99c834c-2541-4116-adb0-26d17a629383"
     }
   ],
   "set": "Default",
