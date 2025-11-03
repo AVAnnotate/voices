@@ -2425,6 +2425,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "tag": "Social",
+          "category": "Voice"
         }
       ],
       "uuid": "6b0bff04-2c40-4587-b6bc-545d9476b3d6"
