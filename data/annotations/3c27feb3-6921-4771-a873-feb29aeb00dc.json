@@ -954,6 +954,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "tag": "Speaking",
+          "category": "Voice"
         }
       ],
       "uuid": "c065faeb-0330-4008-b3ae-70ab9b428ee2"
