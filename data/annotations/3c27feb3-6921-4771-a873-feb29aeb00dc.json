@@ -879,6 +879,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "tag": "Speaking",
+          "category": "Voice"
         }
       ],
       "uuid": "5f759f3a-c763-46f0-9260-77870b72e8bd"
