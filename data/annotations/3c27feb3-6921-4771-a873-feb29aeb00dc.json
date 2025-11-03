@@ -2450,6 +2450,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "tag": "Social",
+          "category": "Voice"
         }
       ],
       "uuid": "d2ae44c8-2211-44d5-b64c-dc7c6de79ea0"
