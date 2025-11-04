@@ -1498,6 +1498,35 @@
         }
       ],
       "uuid": "2c701a93-497f-4feb-8ee5-e8a230bfe765"
+    },
+    {
+      "start_time": 3655,
+      "end_time": 3610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What difference would it make here? So I did, and I did know it by heart, but I think I'll read it here anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        },
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "52722d56-2c46-41e1-9040-2ff0e293ce76"
     }
   ],
   "set": "Default",
