@@ -1462,6 +1462,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
         }
       ],
       "uuid": "e2bdf045-95ac-492d-8f20-bcbeae004ff2"
