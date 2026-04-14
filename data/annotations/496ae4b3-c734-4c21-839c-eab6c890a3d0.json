@@ -1525,6 +1525,51 @@
         }
       ],
       "uuid": "fcf84030-ee6e-403c-a3ee-25883a40fdd8"
+    },
+    {
+      "start_time": 388,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thy trillionic multitude of grahh, vhooshes, and silences."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "6b2e5749-eec8-4da5-9228-cea8d3c08c57"
     }
   ],
   "set": "Default",
