@@ -1674,7 +1674,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "She has published essays, a biography--she's working on a biography now. She has published a novel called The Orgy. She has published translations of the Mexican Writer Octavio Paz, and the Swedish poet Gunnar Ekelof. She has published a number of children's books. And, what else can I say?"
+              "text": "She has published essays, a biography--she's working on a biography now. She has published a novel called "
+            },
+            {
+              "text": "The Orgy",
+              "italic": true
+            },
+            {
+              "text": ". She has published translations of the Mexican Writer Octavio Paz, and the Swedish poet Gunnar Ekelof. She has published a number of children's books. And, what else can I say?"
             }
           ]
         }
