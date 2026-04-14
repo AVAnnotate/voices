@@ -207,6 +207,43 @@
         }
       ],
       "uuid": "5c4766d1-4903-4544-a58f-998019a2ec7d"
+    },
+    {
+      "start_time": 219,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to read a couple of poems in Beast Language which are actually from the early '60s and not the '50s, and then we're going to take a break—ten minutes or so."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "f46b66b3-1c02-4a2e-b018-ad96b8dcec4a"
     }
   ],
   "set": "Default",
