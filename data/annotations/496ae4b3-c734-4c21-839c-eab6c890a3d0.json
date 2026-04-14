@@ -154,6 +154,10 @@
         {
           "category": "Speaker",
           "tag": "Anne Waldman"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
         }
       ],
       "uuid": "9b368f6e-48d5-48c9-9248-58982b672558"
