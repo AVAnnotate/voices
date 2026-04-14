@@ -49,6 +49,10 @@
         {
           "category": "Voice",
           "tag": "Situational"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Announcer"
         }
       ],
       "uuid": "f8a3b0f7-9b04-41b2-8da4-24d6fee556ad"
