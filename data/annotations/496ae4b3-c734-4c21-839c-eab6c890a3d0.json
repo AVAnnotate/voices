@@ -56,6 +56,35 @@
         }
       ],
       "uuid": "f8a3b0f7-9b04-41b2-8da4-24d6fee556ad"
+    },
+    {
+      "start_time": 116,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Waldman and the audience laugh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Anne Waldman"
+        }
+      ],
+      "uuid": "76454c77-88f5-487a-ae52-67bed9327b66"
     }
   ],
   "set": "Default",
