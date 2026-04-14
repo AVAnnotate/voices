@@ -16,7 +16,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "In this microedition listeners will hear the American poet Michael McClure (1932-2020) recite two poems from his book "
+        },
+        {
+          "text": "Ghost Tantras",
+          "italic": true
+        },
+        {
+          "text": " (1964) during a reading with Allen Ginsberg (1926-1997) on June 16, 1976 during a summer session of the Naropa Institute’s Jack Kerouac School of Disembodied Poetics. This recording is held in both the Naropa Archives and the Michael McClure fonds at Simon Fraser University, a SpokenWeb partner. The reading by McClure and Ginsberg was planned as a Beat retrospective of sorts. In Ginsberg’s own words, “Michael and I decided that, for the evening, it would be interesting to go back historically and read some of the same texts that we first read together the first time we read together . . . this evening we're going to . . . alternate readings, beginning with a very brief presentation by myself and then a brief presentation by him, and then longer trading back-and-forth, five- and ten-minute sections, improvising the time as we go.” Organizer Anne Waldman introduced the event as “a continuation of some kind of poetic-karmic link” between McClure and Ginsberg."
         }
       ]
     }
@@ -28,6 +35,7 @@
   ],
   "created_at": "2026-04-14T13:54:03.756Z",
   "created_by": "mkilbane",
-  "updated_at": "2026-04-14T13:54:03.756Z",
-  "updated_by": "mkilbane"
+  "updated_at": "2026-04-14T14:05:20.952Z",
+  "updated_by": "mkilbane",
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/"
 }
