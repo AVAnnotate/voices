@@ -1589,7 +1589,63 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "She has published ten volumes of poetry, which include such books as The Green Wave, The Turning Wind, Beast and View, U.S. 1, Theory of Flight, Body of Waking, Waterlily Fire, and The speed of darkness, amongst others."
+              "text": "She has published ten volumes of poetry, which include such books as "
+            },
+            {
+              "text": "The Green Wave",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "The Turning Wind",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Beast and View",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "U.S. 1",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Theory of Flight",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Body of Waking",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Waterlily Fire",
+              "italic": true
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "text": "The Speed of Darkness",
+              "italic": true
+            },
+            {
+              "text": ", amongst others."
             }
           ]
         }
