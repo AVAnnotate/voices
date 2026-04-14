@@ -903,6 +903,43 @@
         }
       ],
       "uuid": "450b11d5-31ae-4f80-a2e1-deef67efb0c3"
+    },
+    {
+      "start_time": 313,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "myketoth sharoo sreee thah noh deeeeeemed ez."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "baa24d0c-6407-43c7-8159-e6ffa329fee2"
     }
   ],
   "set": "Default",
