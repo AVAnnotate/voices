@@ -1056,6 +1056,31 @@
         }
       ],
       "uuid": "f716391d-21bc-4b81-842d-b0b7a9cd646b"
+    },
+    {
+      "start_time": 332,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was always afraid to recite this other one. Although I knew it by heart, I was afraid to recite it because I thought I might not be able to stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "e1170fe8-fd2e-47a1-9d4f-343834ad1388"
     }
   ],
   "set": "Default",
