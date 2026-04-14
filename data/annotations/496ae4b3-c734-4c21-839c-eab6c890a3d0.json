@@ -940,6 +940,43 @@
         }
       ],
       "uuid": "baa24d0c-6407-43c7-8159-e6ffa329fee2"
+    },
+    {
+      "start_time": 319,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whan. eeeethoooze hrohh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "68d2a10f-a7b5-413a-a784-821ad2d19e0d"
     }
   ],
   "set": "Default",
