@@ -756,12 +756,33 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "hrooor. VOOOR-NAH! GAHROOOOO ME."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": ""
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
       "uuid": "45869795-c01d-43e0-b54c-8096e09c858d"
     }
   ],
