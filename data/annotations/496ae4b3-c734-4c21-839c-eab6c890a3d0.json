@@ -1480,6 +1480,51 @@
         }
       ],
       "uuid": "d7f4135c-8f05-43cf-b558-8b9d84eab771"
+    },
+    {
+      "start_time": 383,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from thy enhanced interior--believing what thou carry."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "fcf84030-ee6e-403c-a3ee-25883a40fdd8"
     }
   ],
   "set": "Default",
