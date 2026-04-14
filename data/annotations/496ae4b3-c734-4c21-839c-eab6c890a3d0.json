@@ -338,6 +338,43 @@
         }
       ],
       "uuid": "9c4a3ebd-8ebf-4fe5-ac48-78f5237cadc1"
+    },
+    {
+      "start_time": 251,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "1f51efd2-d40e-4a3f-b1d2-ff5eda31cfb4"
     }
   ],
   "set": "Default",
