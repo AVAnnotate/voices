@@ -1390,6 +1390,51 @@
         }
       ],
       "uuid": "b4a85b23-ef29-4ef1-a768-75348d8712f0"
+    },
+    {
+      "start_time": 376,
+      "end_time": 379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thou whole, thou feeling creature."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "55e27ad7-a421-4cff-9d55-744f800dba49"
     }
   ],
   "set": "Default",
