@@ -977,6 +977,35 @@
         }
       ],
       "uuid": "68d2a10f-a7b5-413a-a784-821ad2d19e0d"
+    },
+    {
+      "start_time": 324,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience applauds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "45490725-f1d5-4750-97a6-8e1f858bf005"
     }
   ],
   "set": "Default",
