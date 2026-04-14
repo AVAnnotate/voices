@@ -636,6 +636,43 @@
         }
       ],
       "uuid": "9e51e83b-f872-479b-ad12-a4166a70730a"
+    },
+    {
+      "start_time": 279,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Body eats bouquets of the ear's vista."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "31947079-74c6-4e7b-a066-e8b44e9372f9"
     }
   ],
   "set": "Default",
