@@ -1024,6 +1024,10 @@
         {
           "tag": "Notes",
           "category": "Type"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
         }
       ],
       "uuid": "0cee1b81-6378-45fc-865d-1d65532c234c"
