@@ -1435,6 +1435,51 @@
         }
       ],
       "uuid": "55e27ad7-a421-4cff-9d55-744f800dba49"
+    },
+    {
+      "start_time": 379,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Live not for others but affect thyself"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "d7f4135c-8f05-43cf-b558-8b9d84eab771"
     }
   ],
   "set": "Default",
