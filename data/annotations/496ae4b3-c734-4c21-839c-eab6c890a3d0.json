@@ -31,6 +31,27 @@
         }
       ],
       "uuid": "b34100c2-1816-45c8-9d63-c2912547198e"
+    },
+    {
+      "start_time": 7,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This will be a poetry reading by Michael McClure and Allen Ginsberg from Naropa Institute’s Jack Kerouac School of Disembodied Poetics, June 16, 1976. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "Situational"
+        }
+      ],
+      "uuid": "f8a3b0f7-9b04-41b2-8da4-24d6fee556ad"
     }
   ],
   "set": "Default",
