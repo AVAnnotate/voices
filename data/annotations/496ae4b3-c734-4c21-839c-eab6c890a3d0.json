@@ -1308,6 +1308,43 @@
         }
       ],
       "uuid": "f1e07287-7885-40d8-87a0-4ded14408363"
+    },
+    {
+      "start_time": 364,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SILENCE THE EYES! BECALM THE SENSES!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "bdea49d2-a91e-4d57-866a-f2449d012e37"
     }
   ],
   "set": "Default",
