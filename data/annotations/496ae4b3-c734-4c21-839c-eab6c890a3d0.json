@@ -829,6 +829,43 @@
         }
       ],
       "uuid": "8cd7263d-f1f4-4940-b117-7626e6f5e0e4"
+    },
+    {
+      "start_time": 301,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The machines are too dull when we are lion poems that move & breathe."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "1355217b-8921-46fc-b342-81ab25595a86"
     }
   ],
   "set": "Default",
