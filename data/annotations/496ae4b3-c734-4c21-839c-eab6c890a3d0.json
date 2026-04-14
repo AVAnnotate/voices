@@ -599,6 +599,43 @@
         }
       ],
       "uuid": "d7d5aa9a-628e-4cc2-94a3-4e79a51add3c"
+    },
+    {
+      "start_time": 273,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each blot of sound is a bud or a stahr."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "9e51e83b-f872-479b-ad12-a4166a70730a"
     }
   ],
   "set": "Default",
