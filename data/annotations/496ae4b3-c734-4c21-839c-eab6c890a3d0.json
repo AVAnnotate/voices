@@ -562,6 +562,43 @@
         }
       ],
       "uuid": "a93ac475-152f-4623-8a57-5660530e67e8"
+    },
+    {
+      "start_time": 268,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are served by machines making satins of sounds."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "d7d5aa9a-628e-4cc2-94a3-4e79a51add3c"
     }
   ],
   "set": "Default",
