@@ -1570,6 +1570,51 @@
         }
       ],
       "uuid": "6b2e5749-eec8-4da5-9228-cea8d3c08c57"
+    },
+    {
+      "start_time": 394,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh you are heavier and dimmer than you knew"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "d7cd0621-cda4-4c23-a942-9358c9f53058"
     }
   ],
   "set": "Default",
