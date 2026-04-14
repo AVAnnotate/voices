@@ -1750,6 +1750,51 @@
         }
       ],
       "uuid": "e02d2ce8-0779-4648-bc09-51e11519243e"
+    },
+    {
+      "start_time": 416,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grahhrr-grahhhrr! Grahhr. Gahrahhrr Ghrahhhrrrr."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "98e76d09-fe69-4ba0-a664-a465b9773653"
     }
   ],
   "set": "Default",
