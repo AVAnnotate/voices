@@ -1345,6 +1345,51 @@
         }
       ],
       "uuid": "bdea49d2-a91e-4d57-866a-f2449d012e37"
+    },
+    {
+      "start_time": 370,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drive drooor from the fresh repugnance,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "b4a85b23-ef29-4ef1-a768-75348d8712f0"
     }
   ],
   "set": "Default",
