@@ -1159,6 +1159,35 @@
         }
       ],
       "uuid": "190b088f-7048-4a4d-b736-5e60bb4e888d"
+    },
+    {
+      "start_time": 348,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, recently I was in one of John Lilly's isolation tanks and I thought, what a perfect time to do this thing I've always been afraid to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "294ba7a1-e404-4871-a104-39c675552860"
     }
   ],
   "set": "Default",
