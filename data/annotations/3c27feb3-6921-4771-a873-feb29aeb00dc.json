@@ -1383,35 +1383,6 @@
       "uuid": "685af6f1-9b2b-4e48-88f7-239d38d79e52"
     },
     {
-      "start_time": 490,
-      "end_time": 492,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The audience rustles and coughs."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker",
-          "tag": "Audience"
-        },
-        {
-          "tag": "Notes",
-          "category": "Type"
-        },
-        {
-          "category": "Voice",
-          "tag": "Situational"
-        }
-      ],
-      "uuid": "a88a077f-ef42-4551-bced-f8519e6e1d33"
-    },
-    {
       "start_time": 655,
       "end_time": 657,
       "annotation": [
