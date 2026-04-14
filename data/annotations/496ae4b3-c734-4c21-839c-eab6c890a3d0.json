@@ -488,6 +488,43 @@
         }
       ],
       "uuid": "c0bf0f00-4c0b-4279-8ebd-c76dd89f3f17"
+    },
+    {
+      "start_time": 261,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I LOVE TO THINK OF THE RED PURPLE ROSE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "ad397cf6-db0e-4b0c-9dba-632ba48258b3"
     }
   ],
   "set": "Default",
