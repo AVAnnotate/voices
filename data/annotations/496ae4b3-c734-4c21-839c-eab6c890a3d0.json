@@ -525,6 +525,43 @@
         }
       ],
       "uuid": "ad397cf6-db0e-4b0c-9dba-632ba48258b3"
+    },
+    {
+      "start_time": 265,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "IN THE DARKNESS COOLED BY THE NIGHT"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "a93ac475-152f-4623-8a57-5660530e67e8"
     }
   ],
   "set": "Default",
