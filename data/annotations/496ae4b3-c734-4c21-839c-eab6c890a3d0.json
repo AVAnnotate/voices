@@ -264,6 +264,43 @@
         }
       ],
       "uuid": "f46b66b3-1c02-4a2e-b018-ad96b8dcec4a"
+    },
+    {
+      "start_time": 240,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whan that Aprill with his shoures soote The droghte of March hath perced to the roote, And bathed every veyne in switch licour Of which vertu"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "deca2c6e-eb07-4b88-bda8-35e3f5e6d562"
     }
   ],
   "set": "Default",
