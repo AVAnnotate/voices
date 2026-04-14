@@ -1615,6 +1615,51 @@
         }
       ],
       "uuid": "d7cd0621-cda4-4c23-a942-9358c9f53058"
+    },
+    {
+      "start_time": 398,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and more solid and full of pleasure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "ecc09cdf-0585-4cd4-a94d-17428717d65d"
     }
   ],
   "set": "Default",
