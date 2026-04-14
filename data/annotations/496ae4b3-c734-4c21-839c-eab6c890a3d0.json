@@ -673,6 +673,43 @@
         }
       ],
       "uuid": "31947079-74c6-4e7b-a066-e8b44e9372f9"
+    },
+    {
+      "start_time": 282,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gahhhrrr booody eyes eers noze deem thou."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "b1b5b715-a266-4665-bddf-c10cf8a88b33"
     }
   ],
   "set": "Default",
