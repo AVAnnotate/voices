@@ -301,6 +301,43 @@
         }
       ],
       "uuid": "deca2c6e-eb07-4b88-bda8-35e3f5e6d562"
+    },
+    {
+      "start_time": 249,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's Chaucer actually."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "9c4a3ebd-8ebf-4fe5-ac48-78f5237cadc1"
     }
   ],
   "set": "Default",
