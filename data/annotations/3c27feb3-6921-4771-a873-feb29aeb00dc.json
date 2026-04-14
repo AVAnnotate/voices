@@ -1412,35 +1412,6 @@
       "uuid": "86b8dec2-bbfd-44c7-bd13-4c5e8a00c584"
     },
     {
-      "start_time": 657,
-      "end_time": 661,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "An audience member coughs."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker",
-          "tag": "Audience"
-        },
-        {
-          "tag": "Notes",
-          "category": "Type"
-        },
-        {
-          "category": "Voice",
-          "tag": "Situational"
-        }
-      ],
-      "uuid": "556f6515-020b-424f-b03c-640284479845"
-    },
-    {
       "start_time": 1770,
       "end_time": 1774,
       "annotation": [
