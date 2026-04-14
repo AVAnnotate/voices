@@ -866,6 +866,43 @@
         }
       ],
       "uuid": "1355217b-8921-46fc-b342-81ab25595a86"
+    },
+    {
+      "start_time": 308,
+      "end_time": 313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WHAN WE GROOOOOOOOOOOOOOR hann dree"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Michael McClure"
+        }
+      ],
+      "uuid": "450b11d5-31ae-4f80-a2e1-deef67efb0c3"
     }
   ],
   "set": "Default",
